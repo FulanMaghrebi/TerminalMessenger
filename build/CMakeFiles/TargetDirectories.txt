@@ -1,3 +1,4 @@
-/home/mounir/Projects/TerminalMessanger/build/CMakeFiles/test.dir
-/home/mounir/Projects/TerminalMessanger/build/CMakeFiles/edit_cache.dir
-/home/mounir/Projects/TerminalMessanger/build/CMakeFiles/rebuild_cache.dir
+/home/mounir/Projects/TerminalMessenger/build/CMakeFiles/server.dir
+/home/mounir/Projects/TerminalMessenger/build/CMakeFiles/client.dir
+/home/mounir/Projects/TerminalMessenger/build/CMakeFiles/edit_cache.dir
+/home/mounir/Projects/TerminalMessenger/build/CMakeFiles/rebuild_cache.dir

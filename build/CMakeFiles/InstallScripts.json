@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/mounir/Projects/TerminalMessanger/build/cmake_install.cmake"
+		"/home/mounir/Projects/TerminalMessenger/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
